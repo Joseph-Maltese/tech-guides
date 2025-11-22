@@ -1,0 +1,2 @@
+# tech-guides
+Hi! Welcome and thanks for visiting. I will be sharing some cool tech/software-dev things I learned about here. My goal is to hopefully introduce and expose other people to these cool things; whether it be showing you a certification you can earn and steps to take, showing how to use a certain technology, or simply sharing interesting information amongst other things. All skill levels welcomed
